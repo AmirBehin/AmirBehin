@@ -1,6 +1,5 @@
 ## Hi I am Amir Behin👋
-I am a Computer Science Student and i am a beginner and a newcomer to the world of Coding
-My True passion is Game Developement🎮
+I am a Computer Science Student and i am a beginner and a newcomer to the world of Coding and My True passion is Game Developement🎮
 
 <!--
 **AmirBehin/AmirBehin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
